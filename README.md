@@ -16,7 +16,6 @@ this is the stereo see through project for VisionerTech VMG-PROV 01 which contai
 3. open "\stereo_seethrough_unity-master\RenderingPluginExample52_stereo_seethrough\UnityProject" folder with Unity.
 
 ![alt text](https://github.com/VisionerTech/stereo_seethrough_unity/blob/master/readme_image/open.png "open")
-
 ![alt text](https://github.com/VisionerTech/stereo_seethrough_unity/blob/master/readme_image/open2.png "open2")
 4. double click "scene" in the unity left project panel and run, then you can see the video see through result!
 
